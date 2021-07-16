@@ -1,1 +1,3 @@
-# LugCulculation
+# LugCalculation
+
+![architect.png](architect.png)
